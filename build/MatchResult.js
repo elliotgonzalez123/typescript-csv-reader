@@ -5,4 +5,6 @@ var MatchResult;
     MatchResult["HomeWin"] = "H";
     MatchResult["AwayWin"] = "A";
     MatchResult["Draw"] = "D";
+    MatchResult["Win"] = "W";
+    MatchResult["Loss"] = "L";
 })(MatchResult = exports.MatchResult || (exports.MatchResult = {}));
